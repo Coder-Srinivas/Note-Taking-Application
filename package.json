@@ -1,0 +1,11 @@
+{
+  "name": "note-taking-app",
+  "version": "1.0.0",
+  "description": "A Note Taking Application",
+  "main": "app.js",
+  "scripts": {
+    "run" : "node app.js"
+  },
+  "author": "Srinivas",
+  "license": "ISC"
+}
